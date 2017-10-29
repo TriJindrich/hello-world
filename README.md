@@ -2,3 +2,7 @@
 The first testing repository.
 Need to synchronize with PyCharm
 I did this edit from Pycharm!
+dssdfsdsdf
+fgdbdfg
+dfgfg
+sdffsdf
